@@ -1,0 +1,105 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+body{
+    background-color:hsl(217, 54%, 11%) ;
+}
+main{
+    width: 22%;
+    background-color: hsl(216, 50%, 16%);
+    margin-top: 5rem;
+    padding: 1rem;
+    /* padding-right: 1rem; */
+    border-radius: 10px;
+}
+img{
+    width: 100%;
+    border-radius: 7px;
+}
+/* .diceLike:hover{
+    background: hsl(178, 100%, 50%);
+    opacity: 0.8;
+} */
+/* .eye{
+    display: flex;    
+} */
+h4{
+    color:hsl(0, 0%, 100%) ;
+    padding-top: 0.7rem;
+    padding-bottom: 0.8rem;
+}
+h4 a{
+    text-decoration: none;
+    color: inherit;
+}
+h4:hover{
+    color: hsl(178, 100%, 50%);
+}
+p{
+    font-size: 15px
+}
+.equil{
+    color:hsl(215, 51%, 70%) ;
+}
+.flex{
+    padding-top: 1rem;
+    display: flex;
+    justify-content: space-around;
+    /* margin-left: -1.4rem; */
+    margin-bottom: 1rem;
+}
+.first{
+    margin-left: 0rem;
+}
+.eth{
+    margin-left: -1.7rem;
+    color:hsl(178, 100%, 50%) ;
+    font-size: 15px;
+}
+.clock{
+    margin-right: -1.9rem;
+}
+.day{
+    color:hsl(215, 51%, 70%) ;
+    margin-right: -0.1rem;
+}
+hr{
+    color:hsl(215, 32%, 27%) ;
+    margin-bottom: 1rem;
+}
+.picture{
+    width: 12%;
+    border-radius: 50%;
+    border: 1px solid hsl(0, 0%, 100%);
+    margin-left: -0.2rem;
+}
+.down{
+    display: flex;
+    align-items: center;
+    gap: 0px;
+}
+.jule{
+    margin-left: -3rem;
+}
+p.jule{
+    color:hsl(215, 51%, 70%) ;
+}
+.jule a{
+    text-decoration: none;
+    color:hsl(0, 0%, 100%) ;
+}
+.jule a:hover{
+    color: hsl(178, 100%, 50%);
+}
+
+
+
+.attribution{
+    font-size: 12px;
+    text-align: center;
+}
+.attribution a{
+    text-decoration: none;
+    color: purple;
+}
